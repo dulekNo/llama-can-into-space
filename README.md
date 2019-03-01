@@ -1,5 +1,9 @@
 # llama-can-into-space
 
+## Project based on vue tutorial from 'hello roman'
+
+* youtube link: https://www.youtube.com/watch?v=A2rEhxkFPDw
+
 ## Project setup
 ```
 npm install
